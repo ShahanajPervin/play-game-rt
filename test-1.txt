@@ -3,3 +3,5 @@ test 1
 test 1 file hot fix
 
 added line-1 for hotfix - main branch
+
+add line-2 hotfix from feature branch
